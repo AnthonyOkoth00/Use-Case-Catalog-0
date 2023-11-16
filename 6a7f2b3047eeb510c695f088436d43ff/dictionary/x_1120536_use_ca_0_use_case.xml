@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="320ccf41476ef510c695f088436d433f" extends="x_1120536_use_ca_0_use_case_catalog" label="Use Case" max_length="40" name="x_1120536_use_ca_0_use_case" type="collection"/>
+</database>

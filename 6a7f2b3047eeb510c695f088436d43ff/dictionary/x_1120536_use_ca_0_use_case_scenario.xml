@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="564c4b81476ef510c695f088436d430e" extends="x_1120536_use_ca_0_use_case" label="Use Case Scenario" max_length="40" name="x_1120536_use_ca_0_use_case_scenario" type="collection">
+        <element default="False" function_definition="False" label="Automated" mandatory="true" max_length="255" name="automated" type="boolean"/>
+        <element default="False" function_definition="False" label="Outdated" mandatory="true" max_length="255" name="outdated" type="boolean"/>
+        <element label="Use Case" mandatory="true" max_length="32" name="use_case" reference="x_1120536_use_ca_0_use_case" type="reference"/>
+    </element>
+</database>

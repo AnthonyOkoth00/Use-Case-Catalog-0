@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Use Case Catalog</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Use Case Catalog</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">cd6f9cb6d423211095d7c105f1bf43f1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 07:29:54</sys_created_on>
+        <sys_id>49d00b81472ef510c695f088436d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Use Case Catalog</sys_name>
+        <sys_package display_value="Use Case Catalog" source="x_1120536_use_ca_0">6a7f2b3047eeb510c695f088436d43ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</sys_scope>
+        <sys_update_name>sys_wizard_answer_49d00b81472ef510c695f088436d4351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 07:29:54</sys_updated_on>
+        <table/>
+        <target_url>x_1120536_use_ca_0_use_case_catalog.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</application>
+        <file_path/>
+        <instance_id>431cfddbdb7851900ae3ac44d49619b3</instance_id>
+        <instance_name>dev130151</instance_name>
+        <name>sys_wizard_answer_49d00b81472ef510c695f088436d4351</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Use Case Catalog</answer><button_label/><dependent_value/><element/><name>Use Case Catalog</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">cd6f9cb6d423211095d7c105f1bf43f1</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-15 07:29:54</sys_created_on><sys_id>49d00b81472ef510c695f088436d4351</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Use Case Catalog</sys_name><sys_package display_value="Use Case Catalog" source="x_1120536_use_ca_0">6a7f2b3047eeb510c695f088436d43ff</sys_package><sys_policy/><sys_scope display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</sys_scope><sys_update_name>sys_wizard_answer_49d00b81472ef510c695f088436d4351</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-15 07:29:54</sys_updated_on><table/><target_url>x_1120536_use_ca_0_use_case_catalog.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>2055806862</payload_hash>
+        <record_name>Use Case Catalog</record_name>
+        <reverted_from/>
+        <source>6a7f6b3047eeb510c695f088436d4301</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 07:29:54</sys_created_on>
+        <sys_id>05d00b81472ef510c695f088436d4354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd1e2f6600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 07:29:54</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>4dd00b81b82ef5101af7f3025e710e53</update_guid>
+        <update_guid_history>4dd00b81b82ef5101af7f3025e710e53:2055806862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 08:14:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>2f86a3bae9b9447788b6babba3aad4c1</sys_id>
+        <sys_metadata>49d00b81472ef510c695f088436d4351</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Use Case Catalog</sys_name>
+        <sys_package display_value="Use Case Catalog" source="x_1120536_use_ca_0">6a7f2b3047eeb510c695f088436d43ff</sys_package>
+        <sys_parent display_value="Task">cd6f9cb6d423211095d7c105f1bf43f1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</sys_scope>
+        <sys_scope_delete display_value="">625f2780e3d14dcfb83c0a2cd79607c1</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_49d00b81472ef510c695f088436d4351</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_49d00b81472ef510c695f088436d4351">05d00b81472ef510c695f088436d4354</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 08:14:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

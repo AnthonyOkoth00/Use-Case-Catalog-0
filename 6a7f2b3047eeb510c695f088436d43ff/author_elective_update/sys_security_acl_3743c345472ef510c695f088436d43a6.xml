@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_1120536_use_ca_0_use_case</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 07:40:44</sys_created_on>
+        <sys_id>3743c345472ef510c695f088436d43a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1120536_use_ca_0_use_case</sys_name>
+        <sys_package display_value="Use Case Catalog" source="x_1120536_use_ca_0">6a7f2b3047eeb510c695f088436d43ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</sys_scope>
+        <sys_update_name>sys_security_acl_3743c345472ef510c695f088436d43a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 07:40:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</application>
+        <file_path/>
+        <instance_id>431cfddbdb7851900ae3ac44d49619b3</instance_id>
+        <instance_name>dev130151</instance_name>
+        <name>sys_security_acl_3743c345472ef510c695f088436d43a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_1120536_use_ca_0_use_case</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-15 07:40:44</sys_created_on><sys_id>3743c345472ef510c695f088436d43a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1120536_use_ca_0_use_case</sys_name><sys_package display_value="Use Case Catalog" source="x_1120536_use_ca_0">6a7f2b3047eeb510c695f088436d43ff</sys_package><sys_policy/><sys_scope display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</sys_scope><sys_update_name>sys_security_acl_3743c345472ef510c695f088436d43a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-15 07:40:44</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1025123554</payload_hash>
+        <record_name>x_1120536_use_ca_0_use_case</record_name>
+        <reverted_from/>
+        <source>6a7f6b3047eeb510c695f088436d4301</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 07:40:44</sys_created_on>
+        <sys_id>f743c345472ef510c695f088436d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd1ece2ff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 07:40:44</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3343c345322ef5106d04b3b58ebce9a8</update_guid>
+        <update_guid_history>3343c345322ef5106d04b3b58ebce9a8:-1025123554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 08:13:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>4394cd4ef3574c5493166f8330790a90</sys_id>
+        <sys_metadata>3743c345472ef510c695f088436d43a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1120536_use_ca_0_use_case</sys_name>
+        <sys_package display_value="Use Case Catalog" source="x_1120536_use_ca_0">6a7f2b3047eeb510c695f088436d43ff</sys_package>
+        <sys_parent display_value="">bd434345472ef510c695f088436d43f7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Use Case Catalog">6a7f2b3047eeb510c695f088436d43ff</sys_scope>
+        <sys_scope_delete display_value="">625f2780e3d14dcfb83c0a2cd79607c1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3743c345472ef510c695f088436d43a6</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3743c345472ef510c695f088436d43a6">f743c345472ef510c695f088436d43a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 08:13:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
