@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="fbab4741476ef510c695f088436d4386" extends="task" label="Use Case Catalog" max_length="40" name="x_1120536_use_ca_0_use_case_catalog" type="collection"/>
+    <element db_object_id="fbab4741476ef510c695f088436d4386" extends="task" label="Use Case Catalog" max_length="40" name="x_1120536_use_ca_0_use_case_catalog" type="collection">
+        <element label="Parent" max_length="32" name="u_parent" reference="x_1120536_use_ca_0_use_case_catalog" type="reference"/>
+    </element>
 </database>
